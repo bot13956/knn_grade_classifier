@@ -11,7 +11,7 @@ UT: unit test
 
 FE: final exam
 
-The corresponding labels are the overall letter grade: A, B, C, D, E
+The corresponding labels are the overall letter grade: A, B, C, D, F
 
 data.csv: contains the training dataset
 
