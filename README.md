@@ -12,7 +12,7 @@ FE: final exam
 
 The corresponding labels are the overall letter grade: A, B, C, D, E
 
-data.csv: contains training dataset
+data.csv: contains the training dataset
 
 analysis.ipynb: contains code that implements the knn-classifier algorithm
 
