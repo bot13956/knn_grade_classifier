@@ -1,5 +1,6 @@
 # knn_grade_classifier
 We build a machine learning algorithm using knn classifier for multiclass classification of student test scores. The test scores consist of five features that describe the different categories of assessment that contributes to the final grade:
+
 CQ: canvas quiz 
 
 HW: homework
